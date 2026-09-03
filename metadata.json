@@ -1,0 +1,11 @@
+{
+  "name": "Khet Doctor AI",
+  "description": "AI-powered crop analysis tool for farmers. Upload crop photos to get preliminary diagnosis, action plans, and smart follow-up questions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
