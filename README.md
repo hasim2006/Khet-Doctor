@@ -1,4 +1,4 @@
-# 🌾 Khet Doctor AI (खेत डॉक्टर)
+# Khet Doctor AI (खेत डॉक्टर)
 
 <div align="center">
 
@@ -14,13 +14,13 @@
 
 ---
 
-### 🌐 **Live Website:** [https://khet-doctor-ai.vercel.app/](https://khet-doctor-ai.vercel.app/)
+### **Live Website:** [https://khet-doctor-ai.vercel.app/](https://khet-doctor-ai.vercel.app/)
 
 </div>
 
 ---
 
-## 📖 Overview
+## Overview
 
 **Khet Doctor AI (खेत डॉक्टर)** is an intelligent agricultural assistant designed to help farmers detect crop diseases, pests, and nutrient deficiencies early. By leveraging Google's **Gemini Vision AI**, farmers can simply snap a photo or upload an image of an affected plant leaf or crop and receive:
 
@@ -30,47 +30,47 @@
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 📸 **Camera & Image Upload**: Capture live crop photos directly from mobile camera or upload from gallery. Includes sample crops (Wheat, Tomato, Cotton) for quick testing.
-- 🔬 **Intelligent Diagnosis & Severity Rating**:
+- **Camera & Image Upload**: Capture live crop photos directly from mobile camera or upload from gallery. Includes sample crops (Wheat, Tomato, Cotton) for quick testing.
+- **Intelligent Diagnosis & Severity Rating**:
   - Identified Crop & Suspected Disease / Pest
   - Confidence Percentage & Severity Badge (Low / Medium / High)
   - Observable Symptoms breakdown & Potential Causes
   - Alternative possibilities to prevent misdiagnosis
-- 📋 **Structured Action Plan for Farmers**:
+- **Structured Action Plan for Farmers**:
   - **Today's Immediate Actions**: Quick organic/cultural steps to prevent disease spread.
   - **Next 2-3 Days Care**: What to observe and how the crop should respond.
   - **Things to Avoid**: Crucial warnings preventing accidental chemical burn or pesticide misuse.
   - **Worsening Signs & Escalation**: Clear guidelines on when to consult local Krishi Vigyan Kendra (KVK).
-- 🎙️ **Voice Context & Audio Summary (Text-to-Speech)**:
+- ️ **Voice Context & Audio Summary (Text-to-Speech)**:
   - Farmers can speak their problem using the built-in microphone.
   - Built-in Voice Readout feature summarizes the findings out loud in 15–30 seconds.
-- 🌐 **Multilingual Regional Language Support**:
-  - 🇮🇳 **Hindi (हिंदी)**
-  - 🇬🇧 **English**
-  - 🗣️ **Hinglish**
-  - 🌾 **Punjabi (ਪੰਜਾਬੀ)**
-  - 🚩 **Marathi (मराठी)**
-  - 🐟 **Bengali (বাংলা)**
-  - 🏛️ **Tamil (தமிழ்)**
-  - ☀️ **Telugu (తెలుగు)**
-- ❓ **Interactive Smart Follow-up Questions**: Allows farmers to answer tailored follow-up queries (plant age, recent weather, soil conditions) to further refine the AI diagnosis.
-- 🛡️ **Built-in Safety & Agronomic Guardrails**: Refuses to blindly recommend harmful chemical cocktails and provides safety disclaimers.
+- **Multilingual Regional Language Support**:
+  - **Hindi (हिंदी)**
+  - **English**
+  - ️ **Hinglish**
+  - **Punjabi (ਪੰਜਾਬੀ)**
+  - **Marathi (मराठी)**
+  - **Bengali (বাংলা)**
+  - ️ **Tamil (தமிழ்)**
+  - ️ **Telugu (తెలుగు)**
+- **Interactive Smart Follow-up Questions**: Allows farmers to answer tailored follow-up queries (plant age, recent weather, soil conditions) to further refine the AI diagnosis.
+- ️ **Built-in Safety & Agronomic Guardrails**: Refuses to blindly recommend harmful chemical cocktails and provides safety disclaimers.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 Experience Khet Doctor AI directly in your browser:
 
-🔗 **[https://khet-doctor-ai.vercel.app/](https://khet-doctor-ai.vercel.app/)**
+ **[https://khet-doctor-ai.vercel.app/](https://khet-doctor-ai.vercel.app/)**
 
 *(Mobile responsive - installable as PWA / bookmark on Android & iOS devices)*
 
 ---
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 | Layer | Technology |
 | :--- | :--- |
@@ -84,7 +84,7 @@ Experience Khet Doctor AI directly in your browser:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 khet-doctor-ai/
@@ -118,7 +118,7 @@ khet-doctor-ai/
 
 ---
 
-## 💻 Getting Started Locally
+## Getting Started Locally
 
 ### Prerequisites
 
@@ -152,7 +152,7 @@ Open `.env` and add your Gemini API Key:
 GEMINI_API_KEY="your_actual_gemini_api_key_here"
 ```
 
-> 💡 **Note:** You can also enter your Gemini API Key directly in the web app UI using the **🔑 API Key** button in the header if you prefer not to store it in `.env`.
+>  **Note:** You can also enter your Gemini API Key directly in the web app UI using the ** API Key** button in the header if you prefer not to store it in `.env`.
 
 ### 4. Run Development Server
 
@@ -174,7 +174,7 @@ npm run start
 
 ---
 
-## ☁️ Deployment
+## ️ Deployment
 
 ### Deploy to Vercel (Recommended)
 
@@ -187,7 +187,7 @@ npm run start
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/hasim2006/Khet-Doctor/issues).
@@ -200,7 +200,7 @@ Feel free to check the [issues page](https://github.com/hasim2006/Khet-Doctor/is
 
 ---
 
-## 📜 Disclaimer
+## Disclaimer
 
 *Khet Doctor AI provides preliminary diagnostic assessments generated by artificial intelligence. While it is trained on extensive agronomic data, real-world factors such as microclimates and soil conditions can vary. For severe or large-scale crop issues, please consult with certified local agricultural extension officers or Krishi Vigyan Kendra (KVK) experts before applying heavy chemical treatments.*
 
@@ -208,7 +208,7 @@ Feel free to check the [issues page](https://github.com/hasim2006/Khet-Doctor/is
 
 <div align="center">
 
-Made with ❤️ for Indian Farmers 🌾
+Made with ️ for Indian Farmers 
 
 **[Try the Live Web App](https://khet-doctor-ai.vercel.app/)**
 
